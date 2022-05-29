@@ -1,1 +1,2 @@
-Used SQL concepts to perform exploratory data analysis on covid deaths and covid vaccinations and used Microsoft Excel techniques to analyse a chocolate sales data. 
+Leveraged Python concepts Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Microsoft Excel's data cleaning techniques, pivot tables, Tableau's concepts, SQL concepts
+to perform data analysis. 

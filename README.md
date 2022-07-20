@@ -1,2 +1,1 @@
-Leveraged Python concepts Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Microsoft Excel's data cleaning techniques, pivot tables, Tableau's concepts, SQL concepts
-to perform data analysis. 
+Leveraged Python concepts Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Microsoft Excel's data cleaning techniques, pivot tables, Tableau's concepts, Power BI concepts such as DAX, Data Modelling, Power Query, SQL concepts to perform data analysis. 
